@@ -1,3 +1,12 @@
+
+B
+sfafsasfaf
+
+rsrarsaasrsra
+
+A
+B
+B
 .. image:: http://img.shields.io/pypi/v/beets.svg
     :target: https://pypi.python.org/pypi/beets
 
